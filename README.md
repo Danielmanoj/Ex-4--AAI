@@ -1,7 +1,7 @@
 <H3>ENTER YOUR NAME : MANOJ G</H3>
 <H3>ENTER YOUR REGISTER NO : 212222240060</H3>
 <H3>EX-NO : 4</H3>
-<H3>DATE : 17/10/2024</H3>
+<H3>DATE : 19/08/2024</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## Aim: 
